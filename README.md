@@ -2,7 +2,7 @@
 
 ## Himachal Pradesh is known as 'Dev Bhoomi' meaning 'the adobe of the Gods'. The Pahari community residing here have their own local deity called "Devtas". These Devtas are believed to be the manifestation of Lord Brahma, Vishnu and Mahesh
 
-## 1.Social media website of Himachali deities, where anyone can upload their post about their Deity.
+## Social media website of Himachali deities, where anyone can upload their post about their Deity.
 
 
 # **1. Sign up :** 
