@@ -5,4 +5,10 @@
 
 **1. Sign up -- >** 
 
-![Screenshot1](https://github.com/Firoz-Thakur/Django-game/blob/master/Shyati%20nag%20image/Screenshot1.png)
+![Screenshott1](https://github.com/Firoz-Thakur/Django-game/blob/master/Shyati%20nag%20image/Screenshott1.png)
+
+**2. Signup successfully , Now Login -->**
+
+
+
+![Screenshot2](https://github.com/Firoz-Thakur/Django-game/blob/master/Shyati%20nag%20image/Screenshot2.png)
