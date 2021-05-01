@@ -4,4 +4,4 @@
 2.Similar to Facebook
 
 
-![Screenshot (254)](https://github.com/Firoz-Thakur/Firoz-kumar-3-github.io/Screenshot (254).png)
+![Screenshot1](https://github.com/Firoz-Thakur/Firoz-kumar-3-github.io/Screenshot1.png)
