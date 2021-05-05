@@ -20,7 +20,7 @@
 
 ![Screenshot3](https://github.com/Firoz-Thakur/Django-game/blob/master/Shyati%20nag%20image/Screenshot3.png)
 
-# **4. Photos of Deities  :**
+# **4. Photos of Deities   :**
 
 ![Screenshot6](https://github.com/Firoz-Thakur/Django-game/blob/master/Shyati%20nag%20image/Screenshot6.png)
 
