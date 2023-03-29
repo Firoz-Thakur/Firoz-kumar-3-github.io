@@ -1,9 +1,3 @@
-
-Pinned by Cloud With Django
-Cloud With Django
-2 months ago (edited)
-vercel.json code:
-
 {
     "builds": [{
         "src": "miniblog/wsgi.py",
